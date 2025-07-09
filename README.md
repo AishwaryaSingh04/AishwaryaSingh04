@@ -34,5 +34,5 @@ My tech stack involves  **React**,**JavascriptScript**,**Angular**,,**TypeScript
   </tr>
 </table>
 
--
+
 
