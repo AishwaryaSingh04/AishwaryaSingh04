@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <p align="left">
   <a href="mailto:Aishwarya_kahsyap04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,7 +7,7 @@
 
 # Hi I'm Aishwarya 👋, Software Engineer 🧑‍💻
 
-My tech stack involves  **React**,**JavascriptScript**,**Angular**,,**TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **AWS**.  
+My tech stack involves  **React**, **JavascriptScript**, **Angular**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and **AWS**.  
 🚀 Better late than never! Diving into **DSA** and **System Design** to level up my problem-solving skills 🌱
 
 ---
